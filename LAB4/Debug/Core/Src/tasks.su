@@ -1,0 +1,5 @@
+tasks.c:9:6:testRedLed	8	static
+tasks.c:13:6:testGreenLed	8	static
+tasks.c:17:6:testYellowLed	8	static
+tasks.c:21:6:blink_led4	8	static
+tasks.c:26:6:blink_led5	8	static
